@@ -1,0 +1,11 @@
+ros-indigo-wifiscanner (0.0.1-0trusty) trusty; urgency=high
+
+  * making it ready for release with install targets and correct maintainer
+  * added wifiscanner working
+  * first ros commit
+  * Initial commit
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Sun, 07 Feb 2016 00:00:00 -0000
+
+
